@@ -118,6 +118,12 @@
       "id": 5,
       "name": "System Current",
       "type": "float"
+    },
+    {
+      "id": 10,
+      "name": "Dangerously Override Hardware Current Limit",
+      "type": "uint8_t",
+      "optional": true
     }
   ],
   "enums": [
