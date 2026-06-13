@@ -1,0 +1,18 @@
+{
+  "inputs": [],
+  "outputs": [
+    {
+      "id": 0,
+      "name": "Left",
+      "type": "float"
+    },
+    {
+      "id": 1,
+      "name": "Right",
+      "type": "float"
+    }
+  ],
+  "registers": [],
+  "type": "DistanceService",
+  "version": 1
+}
